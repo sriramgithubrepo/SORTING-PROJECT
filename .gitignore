@@ -1,0 +1,7 @@
+# IDE & Editor settings
+.vscode/
+
+# Build outputs
+bin/
+lib/
+target/
